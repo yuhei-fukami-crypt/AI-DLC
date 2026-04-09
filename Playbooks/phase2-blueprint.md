@@ -40,8 +40,8 @@ Step 3 で GitHub Projects v2 を操作する際は、`aidlc-docs/config/github-
    - 既に実際の値が入っていればスキップする
 
 2. **人間に以下の情報を質問する**
-   - GitHub Organization 名（例: `gaudiy`）
-   - リポジトリ名（例: `gaudiy/stan-monorepo`）
+   - GitHub Organization 名（例: `stadium`）
+   - リポジトリ名（例: `stadium/stan-monorepo`）
    - GitHub Projects v2 のプロジェクト番号（GitHub Projects の URL から確認可能）
 
 3. **GitHub CLI で Projects v2 の情報を取得する**
